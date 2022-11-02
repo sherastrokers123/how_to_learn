@@ -1,0 +1,15 @@
+.feinman {
+  min-height: 890px;
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  background-image: url('../../images/feinman/feinman.png');
+  background-position: left bottom;
+  background-size: 867px 637px;
+  background-repeat: no-repeat;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  padding-top: 100px;
+  box-sizing: border-box;
+}

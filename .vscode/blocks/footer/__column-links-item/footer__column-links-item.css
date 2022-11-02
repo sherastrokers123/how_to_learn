@@ -1,0 +1,7 @@
+.footer__column-links-item {
+    margin-top: 10px;
+}
+
+.footer__column-links-item:first-of-type {
+    margin-top: 0px;
+}
